@@ -1,0 +1,134 @@
+#div1{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #C0392B;
+	margin: 27%;
+	padding: 12px;
+}
+#div2{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #D02E77;
+	margin: 27%;
+	padding: 12px;
+}
+#div3{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #19D8B8;
+	margin: 27%;
+	padding: 12px;
+}
+#div4{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #145A32;
+	margin: 27%;
+	padding: 12px;
+}
+#div5{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #5DADE2;
+	margin: 27%;
+	padding: 12px;
+}
+#div6{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #FFE06E;
+	margin: 27%;
+	padding: 12px;
+}
+#div7{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #48C9B0;
+	margin: 27%;
+	padding: 12px;
+}
+#div8{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #EA002E;
+	margin: 27%;
+	padding: 12px;
+}
+#div9{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #D4E6F1;
+	margin: 27%;
+	padding: 12px;
+}
+#div10{
+	border-style: outset;
+	border-width: 5px;
+	border-color: #884EA0;
+	margin: 27%;
+	padding: 12px;
+}
+#product{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 60px;
+	text-align: center;
+}
+#button1{
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-black;
+	padding: 12px;
+	color: white;
+	background-color: #F4D03F;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 14px;
+}
+#button2{
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-black;
+	padding: 12px;
+	color: white;
+	background-color: #F39C12 ;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 14px;
+}
+body{
+	background-color: #FBFCFC;
+}
+img{
+	height: 50%;
+	width: 50%;
+	margin-left: 145px;
+	margin-right: 100px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+h1{
+	font-family: 'Akaya Kanadaka', cursive;
+	font-size: 50px;
+	text-align: center;
+}
+h3{
+	font-family: 'Akaya Kanadaka', cursive;
+	font-size: 35px;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
